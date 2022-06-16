@@ -564,3 +564,19 @@ footer .left ul{
     text-decoration: none;
     color: var(--color-light);
 }
+
+.main-tables-container{
+    display: flex;
+    /* height: 310px; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    margin: 0 30px;
+}
+
+.main-currency-table, .main-comission-table{
+    scroll-snap-align: center;
+    margin-left: 8px;
+    margin-right: 8px;
+}
