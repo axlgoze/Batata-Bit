@@ -14,7 +14,7 @@ Este sitio es la maquetación del prototipo mobil para el sitio Batata bit y tie
 
 Para visitar el sitio ingresa al siguiente link:
 
-![batata]()
+![batata](https://axlgoze.github.io/Batata-Bit/)
 
 ## Maqueta
 
