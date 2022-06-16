@@ -10,6 +10,12 @@
 
 Este sitio es la maquetación del prototipo mobil para el sitio Batata bit y tiene la finalidad de informar sobre los precios y tendencias de algunas criptomonedas.
 
+### Atención
+
+Para mejora la experiencia usa las herramientas de desarrollador en tu navegador de preferencia y usa la herramienta de diseño adaptativo (responsive design) para apreciar la pagina con tamaño mobile (320xn)
+
+![](./assets/other/adaptable.JPG)
+
 ## GitHub pages
 
 Para visitar el sitio ingresa al siguiente link:
@@ -29,5 +35,5 @@ Para el desarrollo de este proyecto nos basamos en la maqueta proporcionada por 
 - Uso de GitHub Pages
 - Uso de commits con mejor descripción
 - Uso de elementos HTML y selectores en CSS
-- Uso de Media Querys para lograr un diseño Responsivo
+- Uso de `Media Querys` para lograr un diseño Responsivo
 - Patrón de diseño `Mobile First`
