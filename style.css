@@ -435,7 +435,7 @@ main{
 .plans-container--card{
     position: relative;
     width: 70%;
-    min-width: 230px;
+    min-width: 190px;
     max-width: 300px;
     height: 250px;
     margin: 20px auto 0;
