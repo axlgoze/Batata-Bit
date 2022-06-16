@@ -542,3 +542,9 @@ footer{
     background-color: var(--color-primary);
 }
 
+footer section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
