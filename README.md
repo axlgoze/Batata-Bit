@@ -37,3 +37,4 @@ Para el desarrollo de este proyecto nos basamos en la maqueta proporcionada por 
 - Uso de elementos HTML y selectores en CSS
 - Uso de `Media Querys` para lograr un diseño Responsivo
 - Patrón de diseño `Mobile First`
+- Uso de `LightHouse` para metrificar el producto
